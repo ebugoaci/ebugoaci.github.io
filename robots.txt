@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebugoaci.github.io/LIo/sitemap_index.txt
+Sitemap: https://ebugoaci.github.io/cMW/sitemap_index.txt
+Sitemap: https://ebugoaci.github.io/kYG/sitemap_index.txt
+Sitemap: https://ebugoaci.github.io/sBJ/sitemap_index.txt
